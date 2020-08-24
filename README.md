@@ -1,2 +1,2 @@
 # Pandas
-PAndas webinar Pokemon
+Pandas
